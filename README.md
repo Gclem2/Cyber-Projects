@@ -1,16 +1,15 @@
 
 ---
 
-## 🧪 Projects & Tools
+## Projects & Tools
 
-- 🔍 `portscanner.py` — Python-based port scanner using `socket`
-- 🔐 `hashcracker.sh` — Simple Bash script using `john` and `hashcat`
-- 📡 TryHackMe writeups, recon steps, and CTF notes
-- 🧬 Malware analysis lab (in progress)
+- `portscanner.py` — Python-based port scanner using `socket`
+- `hashcracker.sh` — Simple Bash script using `john` and `hashcat`
+-  TryHackMe writeups
 
 ---
 
-## 🧠 Learning Areas
+## Learning Areas
 
 This repo reflects my progress and interests in:
 - Network scanning and enumeration
@@ -21,16 +20,16 @@ This repo reflects my progress and interests in:
 
 ---
 
-## 🚀 Goals
+##  Goals
 
-- 🏁 Complete 25+ TryHackMe rooms
-- 📜 Build personal tools and automation scripts
-- 🧪 Set up a fully air-gapped malware analysis VM
-- 📘 Document everything clearly for portfolio use
+-  Complete 25+ TryHackMe rooms
+-  Build personal tools and automation scripts
+-  Set up a fully air-gapped malware analysis VM
+-  Document everything clearly for portfolio use
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Kali Desktop | Nmap Scan | TryHackMe Lab |
 |--------------|-----------|----------------|
@@ -38,15 +37,15 @@ This repo reflects my progress and interests in:
 
 ---
 
-## 📌 Note
+##  Note
 
 This lab is fully virtualized and safely isolated from my home network using host-only adapters and best practices. No live malware or attacks are conducted outside contained VMs.
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 Feel free to open issues, suggest improvements, or connect with me:
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Gclem2](https://github.com/Gclem2)
+- LinkedIn: [](https://linkedin.com/in/yourprofile)
