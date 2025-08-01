@@ -4,6 +4,7 @@
 ## Projects & Tools
 
 - `portscanner.py` — Python-based port scanner using `socket`
+-  IDS - Python-based Intrusion detection system using `scapy` `python-nmap` `numpy` `sklearn` 
 - `hashcracker.sh` — Simple Bash script using `john` and `hashcat`
 -  TryHackMe writeups
 
@@ -48,4 +49,4 @@ This lab is fully virtualized and safely isolated from my home network using hos
 Feel free to open issues, suggest improvements, or connect with me:
 
 - GitHub: [Gclem2](https://github.com/Gclem2)
-- LinkedIn: [](https://linkedin.com/in/yourprofile)
+- LinkedIn: [](https://www.linkedin.com/in/bryce-clemenson-45a16230b/)
