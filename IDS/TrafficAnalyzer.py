@@ -15,7 +15,7 @@ class TrafficAnalyzer:
             ip_src = packet[IP].src
             ip_dst = packet[IP].dst
             port_src = packet[TCP].sport
-            port_dst = packet[TCP].dsport
+            port_dst = packet[TCP].dport
             
             flow_key = (ip_src, ip_dst, port_src, port_dst)
 
