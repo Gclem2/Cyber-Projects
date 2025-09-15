@@ -23,7 +23,7 @@ The notes follow *RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparatio
 - [Shell Scripting](shell_scripting.md)  
 - [Containers](containers.md)  
 - [Troubleshooting](troubleshooting.md)
-- [Troubleshooting](important_commands.md)  
+- [Important Commands](important_commands.md)  
 
 ---
 
