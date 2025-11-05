@@ -11,12 +11,14 @@
             "id": "b3bd04efb26ee24d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251105141015.png"
+                "file": "RHCSA_LABS/Chapter7_Labs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251105141015"
+              "icon": "lucide-file",
+              "title": "Chapter7_Labs"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20251105141015.png",
+                "file": "RHCSA_LABS/Chapter7_Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251105141015"
+              "title": "Backlinks for Chapter7_Labs"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20251105141015.png",
+                "file": "RHCSA_LABS/Chapter7_Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251105141015"
+              "title": "Outgoing links from Chapter7_Labs"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20251105141015.png",
+                "file": "RHCSA_LABS/Chapter7_Labs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251105141015"
+              "title": "Outline of Chapter7_Labs"
             }
           }
         ]
@@ -169,9 +171,10 @@
   },
   "active": "b3bd04efb26ee24d",
   "lastOpenFiles": [
+    "Lab_Writeups/images/Pasted image 20251105141728.png",
     "RHCSA_LABS/Chapter7_Labs.md",
-    "RHCSA_LABS/Chapter6_Labs.md",
     "Pasted image 20251105141015.png",
+    "RHCSA_LABS/Chapter6_Labs.md",
     "RHCSA_NOTES/bash_shell.md",
     "RHCSA_NOTES/troubleshooting.md",
     "RHCSA_NOTES/user_and_group_management.md",
