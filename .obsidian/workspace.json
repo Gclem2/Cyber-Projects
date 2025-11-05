@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "a9ae33fb32b35793",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c6bdde247f8ef6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bd04efb26ee24d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251105141015.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251105141015"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc8fa53ba3612365",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eab79749fab46a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579887114ba7a04f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d831322253f41f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f05462167cd4e36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e347c3462cf5373",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e1e1508b45599d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd2a26b06055419",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20251105141015.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20251105141015"
+            }
+          },
+          {
+            "id": "bccdf44e7c7bb630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20251105141015.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20251105141015"
+            }
+          },
+          {
+            "id": "e37fad5c61dc5334",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc59c1bb97a992fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20251105141015.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20251105141015"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3bd04efb26ee24d",
+  "lastOpenFiles": [
+    "RHCSA_LABS/Chapter7_Labs.md",
+    "RHCSA_LABS/Chapter6_Labs.md",
+    "Pasted image 20251105141015.png",
+    "RHCSA_NOTES/bash_shell.md",
+    "RHCSA_NOTES/troubleshooting.md",
+    "RHCSA_NOTES/user_and_group_management.md",
+    "RHCSA_NOTES/file_management.md",
+    "RHCSA_NOTES/containers.md",
+    "RHCSA_NOTES/system_tuning.md",
+    "RHCSA_NOTES/storage_and_filesystems.md",
+    "RHCSA_NOTES/secure_shell.md",
+    "RHCSA_NOTES/networking.md",
+    "RHCSA_NOTES/important_commands.md",
+    "RHCSA_NOTES/boot_and_system_initialization.md",
+    "Pasted image 20251104225119.png",
+    "Pasted image 20251104225032.png",
+    "README.md",
+    "RHCSA_NOTES/shell_scripting.md",
+    "RHCSA_NOTES/processes_and_scheduling.md",
+    "RHCSA_NOTES/network_file_system.md",
+    "RHCSA_NOTES/installation_and_initial_setup.md",
+    "RHCSA_NOTES/firewall_and_selinux.md",
+    "Lab_Writeups/Performing_Threat_Hunting.md",
+    "Lab_Writeups/images/image4.PNG"
+  ]
+}
