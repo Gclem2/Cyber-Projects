@@ -1,5 +1,7 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "Lab_Writeups/images"
+  "attachmentFolderPath": "Lab_Writeups/images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
