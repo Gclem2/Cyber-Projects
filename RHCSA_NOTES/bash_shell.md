@@ -44,12 +44,12 @@ Shell and environment variables can be **set, unset, and viewed** at the command
 
 ### Commands Overview
 
-| **Action** | **Command** | **Description** |
-|------------|-------------|----------------|
-| Define a **local variable** | `VR1="value"` | Creates a variable `VR1` only in the current shell. |
-| View variable value | `echo $VR1` | Prints the value of `VR1`. |
-| Export to **environment variable** | `export VR1` | Makes `VR1` available to sub-shells and programs. |
-| Unset variable | `unset VR1` | Removes the variable from the current shell environment. |
+| **Action**                         | **Command**   | **Description**                                          |
+| ---------------------------------- | ------------- | -------------------------------------------------------- |
+| Define a **local variable**        | `VR1="value"` | Creates a variable `VR1` only in the current shell.      |
+| View variable value                | `echo $VR1`   | Prints the value of `VR1`.                               |
+| Export to **environment variable** | `export VR1`  | Makes `VR1` available to sub-shells and programs.        |
+| Unset variable                     | `unset VR1`   | Removes the variable from the current shell environment. |
 
 ---
 

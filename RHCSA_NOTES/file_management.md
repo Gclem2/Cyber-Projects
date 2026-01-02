@@ -156,7 +156,7 @@ find /path -name "*.log" -ok rm {} \;
 
 ---
 
-✅ **Practice Tips**
+**Practice Tips**
 
 * Create directories, files, and experiment with copying vs linking.
 * Try changing file permissions both ways (symbolic and numeric).

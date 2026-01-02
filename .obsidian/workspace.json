@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RHCSA_LABS/Chapter7_Labs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter7_Labs"
+              "title": "README"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Chapter7_Labs"
             }
+          },
+          {
+            "id": "993f0a3d025b3f10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,35 +176,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b3bd04efb26ee24d",
   "lastOpenFiles": [
-    "Lab_Writeups/images/Pasted image 20251105141728.png",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
     "RHCSA_LABS/Chapter7_Labs.md",
-    "Pasted image 20251105141015.png",
-    "RHCSA_LABS/Chapter6_Labs.md",
+    "RHCSA_NOTES/boot_and_system_initialization.md",
     "RHCSA_NOTES/bash_shell.md",
-    "RHCSA_NOTES/troubleshooting.md",
     "RHCSA_NOTES/user_and_group_management.md",
-    "RHCSA_NOTES/file_management.md",
-    "RHCSA_NOTES/containers.md",
+    "RHCSA_NOTES/troubleshooting.md",
     "RHCSA_NOTES/system_tuning.md",
     "RHCSA_NOTES/storage_and_filesystems.md",
-    "RHCSA_NOTES/secure_shell.md",
-    "RHCSA_NOTES/networking.md",
-    "RHCSA_NOTES/important_commands.md",
-    "RHCSA_NOTES/boot_and_system_initialization.md",
-    "Pasted image 20251104225119.png",
-    "Pasted image 20251104225032.png",
-    "README.md",
     "RHCSA_NOTES/shell_scripting.md",
+    "RHCSA_NOTES/secure_shell.md",
+    "RHCSA_NOTES/README.md",
     "RHCSA_NOTES/processes_and_scheduling.md",
+    "RHCSA_NOTES/package_management.md",
     "RHCSA_NOTES/network_file_system.md",
+    "RHCSA_NOTES/networking.md",
     "RHCSA_NOTES/installation_and_initial_setup.md",
+    "RHCSA_NOTES/important_commands.md",
     "RHCSA_NOTES/firewall_and_selinux.md",
-    "Lab_Writeups/Performing_Threat_Hunting.md",
-    "Lab_Writeups/images/image4.PNG"
+    "RHCSA_NOTES/file_management.md",
+    "RHCSA_NOTES/containers.md",
+    "RHCSA_LABS/Chapter10_Labs.md",
+    "Lab_Writeups/images/Pasted image 20251231153912.png",
+    "Lab_Writeups/images/Pasted image 20251231145443.png",
+    "Lab_Writeups/images/Pasted image 20251231144113.png",
+    "Lab_Writeups/images/Pasted image 20251231143946.png",
+    "Lab_Writeups/images/Pasted image 20251231143049.png",
+    "Lab_Writeups/images/Pasted image 20251231142334.png",
+    "RHCSA_LABS/Chapter9_Labs.md",
+    "RHCSA_LABS/Chapter6_Labs.md",
+    "RHCSA_LABS/Chapter8_Labs.md",
+    "Lab_Writeups/images/Pasted image 20251223131352.png",
+    "Lab_Writeups/images/Pasted image 20251223131149.png",
+    "Lab_Writeups/images/Pasted image 20251223131043.png",
+    "Lab_Writeups/images/Pasted image 20251223130858.png",
+    "Untitled.canvas",
+    "README.md",
+    "2025-11-12.md"
   ]
 }
