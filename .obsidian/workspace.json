@@ -11,14 +11,14 @@
             "id": "b3bd04efb26ee24d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "RHCSA_LABS/Chapter11_Labs.md",
-                "mode": "source",
-                "source": false
+                "aFile": "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
+                "bFile": "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Chapter11_Labs"
+              "icon": "diff",
+              "title": "Diff: 69a6b4abb4660bc2eb1a831cf6bf3125.PNG"
             }
           }
         ]
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RHCSA_LABS/Chapter7_Labs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter7_Labs"
+              "title": "Outline"
             }
           },
           {
@@ -182,9 +181,25 @@
   },
   "active": "b3bd04efb26ee24d",
   "lastOpenFiles": [
-    "Lab_Writeups/images/Pasted image 20260102164845.png",
+    "output/attachment/5aff984a66a909ecba961b0ac53afc3f.png",
+    "output/attachment/0890444223ab2b6f79c76ab098963046.png",
+    "RHCSA_LABS/Chapter6_Labs.md",
+    "output/Chapter6_Labs.md",
+    "output/attachment/caed09e2fe84780a3e717f65b809f15a.PNG",
+    "output/attachment/b910156d2ccf0984979215dc73a3e8a8.PNG",
+    "output/attachment/6560392bfacb3356da1fd519ddc43bf2.PNG",
+    "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
+    "output/attachment/4e517522875a5fbdb8b7aa3326dc3e9d.PNG",
+    "output/attachment/9faacf564d1de7eb6b16852af2c1d34a.PNG",
+    "output/attachment/d2b5ca33bd970f64a6301fa75ae2eb22.png",
+    "output/attachment/c49cf3d80ea554061ca238ff9d5fed6a.PNG",
+    "output/attachment/055a193e6e06efcda5b44a741852e2ed.PNG",
+    "output/attachment",
+    "output",
+    "RHCSA_LABS/Chapter8_Labs.md",
     "RHCSA_LABS/Chapter10_Labs.md",
     "RHCSA_LABS/Chapter11_Labs.md",
+    "RHCSA_LABS/Chapter9_Labs.md",
     "2025-11-12.md",
     "README.md",
     "RHCSA_NOTES/README.md",
@@ -207,20 +222,6 @@
     "RHCSA_NOTES/installation_and_initial_setup.md",
     "RHCSA_NOTES/important_commands.md",
     "RHCSA_NOTES/firewall_and_selinux.md",
-    "RHCSA_NOTES/file_management.md",
-    "RHCSA_NOTES/containers.md",
-    "Lab_Writeups/images/Pasted image 20251231153912.png",
-    "Lab_Writeups/images/Pasted image 20251231145443.png",
-    "Lab_Writeups/images/Pasted image 20251231144113.png",
-    "Lab_Writeups/images/Pasted image 20251231143946.png",
-    "Lab_Writeups/images/Pasted image 20251231143049.png",
-    "Lab_Writeups/images/Pasted image 20251231142334.png",
-    "RHCSA_LABS/Chapter9_Labs.md",
-    "RHCSA_LABS/Chapter6_Labs.md",
-    "Lab_Writeups/images/Pasted image 20251223131352.png",
-    "Lab_Writeups/images/Pasted image 20251223131149.png",
-    "Lab_Writeups/images/Pasted image 20251223131043.png",
-    "Lab_Writeups/images/Pasted image 20251223130858.png",
     "Untitled.canvas"
   ]
 }
