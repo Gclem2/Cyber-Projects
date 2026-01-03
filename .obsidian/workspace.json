@@ -11,13 +11,14 @@
             "id": "b3bd04efb26ee24d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.base",
-                "viewName": "Table"
+                "file": "RHCSA_Labs/Chapter11_Labs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "Chapter11_Labs"
             }
           }
         ]
@@ -181,8 +182,11 @@
   },
   "active": "b3bd04efb26ee24d",
   "lastOpenFiles": [
-    "RHCSA_Labs/attachment/7b49e0f96515858d0ae6e9165a9db3be.png",
+    "RHCSA_Labs/attachment/Pasted image 20260103114843.png",
+    "RHCSA_NOTES/user_and_group_management.md",
+    "RHCSA_NOTES/system_tuning.md",
     "Untitled 2.base",
+    "RHCSA_Labs/attachment/7b49e0f96515858d0ae6e9165a9db3be.png",
     "Untitled.base",
     "RHCSA_Labs/attachment/0c262aaccfbd00d94ad0ecc992ef33fc.png",
     "README.md",
@@ -191,9 +195,7 @@
     "Untitled.canvas",
     "Lab_Writeups/Performing_Threat_Hunting.md",
     "RHCSA_NOTES/bash_shell.md",
-    "RHCSA_NOTES/user_and_group_management.md",
     "RHCSA_NOTES/troubleshooting.md",
-    "RHCSA_NOTES/system_tuning.md",
     "RHCSA_NOTES/storage_and_filesystems.md",
     "RHCSA_NOTES/shell_scripting.md",
     "RHCSA_NOTES/secure_shell.md",
@@ -218,7 +220,6 @@
     "RHCSA_Labs/attachment/b910156d2ccf0984979215dc73a3e8a8.PNG",
     "RHCSA_Labs/attachment/bf077cffe8d0d144011d3fae1e0441ab.png",
     "RHCSA_Labs/attachment/c49cf3d80ea554061ca238ff9d5fed6a.PNG",
-    "RHCSA_Labs/attachment/d5c9783a8090dda6df2d7984d8c9a22c.png",
     "RHCSA_LABS/Chapter11_Labs.md",
     "RHCSA_Labs/Chapter8_Labs.md",
     "RHCSA_Labs/Chapter11_Labs.md",
