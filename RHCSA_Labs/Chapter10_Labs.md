@@ -1,5 +1,5 @@
 # Lab 10-1: Configure Access to RHEL 9 Repositories
-![[Pasted image 20251231142334.png]]
+![](attachment/5a2a27a7c43c6a9306dff3b874b42790.png)
 
 Check to see if RHEL 9 image is attached and mounted
 ```bash
@@ -11,7 +11,7 @@ Create the definition file
 ```bash
 sudo vi /etc/yum.repos.d/local2.repo
 ```
-![[Pasted image 20251231143049.png]]
+![](attachment/9f03a210b8de4dee2e210cebe8ee3ca2.png)
 ```bash
 sudo dnf clean all
 ```
@@ -19,11 +19,11 @@ Then view the repolist
 ```bash
 sudo dnf repolist
 ```
-![[Pasted image 20251231143946.png]]
+![](attachment/0c262aaccfbd00d94ad0ecc992ef33fc.png)
 
 ---
 # Lab  10-2: Install and Manage Individual Packages
-![[Pasted image 20251231144113.png]]
+![](attachment/bf077cffe8d0d144011d3fae1e0441ab.png)
 
 To List all installed and available packages 
 ```bash
@@ -41,7 +41,7 @@ Install the package httpd
 sudo dnf install httpd
 ```
 
-![[Pasted image 20251231145443.png]]
+![](attachment/d5c9783a8090dda6df2d7984d8c9a22c.png)
 Show info of httpd
 ```bash
 dnf info httpd
@@ -74,7 +74,7 @@ sudo dnf group install "security tools"
 ```bash
 sudo tail /var/log/dnf.log
 ```
-![[Pasted image 20251231153912.png]]
+![](attachment/bfb4c31208899afe542cc8b4974b47fb.png)
 
 Show info for scientific support package
 ```bash

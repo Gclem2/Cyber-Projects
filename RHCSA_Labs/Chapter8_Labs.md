@@ -1,5 +1,5 @@
 # Lab 8-1 : Nice and Renice a Process
-![[Pasted image 20251118015108.png]]
+![](attachment/28db262db4426d4cfc6f0fa126b1eda8.png)
 So to start run this command on the first server
 ```bash
 top
@@ -10,25 +10,25 @@ After switch to the second terminal and run this
 pgrep top
 ```
 It returns this result
-![[Pasted image 20251118015209.png]]
+![](attachment/ebb6ea243048a7111ea61d76450a2757.png)
 
 Then stop top in the first terminal
 ```bash
 nice -n 8 top
 ```
 
-![[Pasted image 20251118015447.png]]
+![](attachment/8a79f12442b26908def3c8d69667f7e1.png)
 
 Then to renice the command run 
 ```bash
 sudo renice -10 2667
 ```
 
-![[Pasted image 20251118015641.png]]
+![](attachment/a55193e8d0854651ec2ab5d4c317e05e.png)
 
 # Lab 8-2 Configure a User Crontab File
 
-![[Pasted image 20251118020241.png]]
+![](attachment/d69ed51c5eed365c74433399032e4b59.png)
 
 to start run tty and date
 ```bash
@@ -36,7 +36,7 @@ tty
 date
 ```
 
-![[Pasted image 20251118020327.png]]
+![](attachment/8ac207803f5c4e81dade200fab983fb2.png)
 
 then we make the crontab
 ```bash
@@ -45,8 +45,8 @@ crontab -e
 ```
 
 Enter this in
-![[Pasted image 20251118020533.png]]
+![](attachment/d25609dfb21faaeacc195c5acda8fca9.png)
 
-![[Pasted image 20251118021021.png]]
+![](attachment/11f667f4a70f458e0871ceaeb5de89fd.png)
 you can then exit then confirm
-![[Pasted image 20251118021113.png]]
+![](attachment/8a687ccb59ce2e26980b1a4fb500b5f0.png)

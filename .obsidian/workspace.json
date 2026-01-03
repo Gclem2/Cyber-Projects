@@ -11,14 +11,14 @@
             "id": "b3bd04efb26ee24d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
-                "bFile": "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
-                "aRef": ""
+                "file": "Lab_Writeups/Performing_Threat_Hunting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 69a6b4abb4660bc2eb1a831cf6bf3125.PNG"
+              "icon": "lucide-file",
+              "title": "Performing_Threat_Hunting"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lab_Writeups/Performing_Threat_Hunting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Performing_Threat_Hunting"
             }
           },
           {
@@ -181,34 +182,8 @@
   },
   "active": "b3bd04efb26ee24d",
   "lastOpenFiles": [
-    "output/attachment/5aff984a66a909ecba961b0ac53afc3f.png",
-    "output/attachment/0890444223ab2b6f79c76ab098963046.png",
-    "RHCSA_LABS/Chapter6_Labs.md",
-    "output/Chapter6_Labs.md",
-    "output/attachment/caed09e2fe84780a3e717f65b809f15a.PNG",
-    "output/attachment/b910156d2ccf0984979215dc73a3e8a8.PNG",
-    "output/attachment/6560392bfacb3356da1fd519ddc43bf2.PNG",
-    "output/attachment/69a6b4abb4660bc2eb1a831cf6bf3125.PNG",
-    "output/attachment/4e517522875a5fbdb8b7aa3326dc3e9d.PNG",
-    "output/attachment/9faacf564d1de7eb6b16852af2c1d34a.PNG",
-    "output/attachment/d2b5ca33bd970f64a6301fa75ae2eb22.png",
-    "output/attachment/c49cf3d80ea554061ca238ff9d5fed6a.PNG",
-    "output/attachment/055a193e6e06efcda5b44a741852e2ed.PNG",
-    "output/attachment",
-    "output",
-    "RHCSA_LABS/Chapter8_Labs.md",
-    "RHCSA_LABS/Chapter10_Labs.md",
-    "RHCSA_LABS/Chapter11_Labs.md",
-    "RHCSA_LABS/Chapter9_Labs.md",
-    "2025-11-12.md",
-    "README.md",
-    "RHCSA_NOTES/README.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "RHCSA_LABS/Chapter7_Labs.md",
-    "RHCSA_NOTES/boot_and_system_initialization.md",
     "RHCSA_NOTES/bash_shell.md",
+    "Lab_Writeups/Performing_Threat_Hunting.md",
     "RHCSA_NOTES/user_and_group_management.md",
     "RHCSA_NOTES/troubleshooting.md",
     "RHCSA_NOTES/system_tuning.md",
@@ -217,11 +192,38 @@
     "RHCSA_NOTES/secure_shell.md",
     "RHCSA_NOTES/processes_and_scheduling.md",
     "RHCSA_NOTES/package_management.md",
-    "RHCSA_NOTES/network_file_system.md",
     "RHCSA_NOTES/networking.md",
+    "RHCSA_NOTES/network_file_system.md",
     "RHCSA_NOTES/installation_and_initial_setup.md",
     "RHCSA_NOTES/important_commands.md",
     "RHCSA_NOTES/firewall_and_selinux.md",
-    "Untitled.canvas"
+    "RHCSA_NOTES/file_management.md",
+    "RHCSA_NOTES/containers.md",
+    "RHCSA_NOTES/boot_and_system_initialization.md",
+    "RHCSA_NOTES/README.md",
+    "RHCSA_NOTES",
+    "RHCSA_Labs/Chapter6_Labs.md",
+    "RHCSA_Labs/attachment/4c31022d43c4f2027868fad913338a7e.png",
+    "RHCSA_Labs/attachment/5a2a27a7c43c6a9306dff3b874b42790.png",
+    "RHCSA_Labs/attachment/6560392bfacb3356da1fd519ddc43bf2.PNG",
+    "RHCSA_Labs/attachment/0890444223ab2b6f79c76ab098963046.png",
+    "RHCSA_Labs/attachment/aff6e8a1296985493b4bf27d67b27571.png",
+    "RHCSA_Labs/attachment/b910156d2ccf0984979215dc73a3e8a8.PNG",
+    "RHCSA_Labs/attachment/bf077cffe8d0d144011d3fae1e0441ab.png",
+    "RHCSA_Labs/attachment/c49cf3d80ea554061ca238ff9d5fed6a.PNG",
+    "RHCSA_Labs/attachment/d5c9783a8090dda6df2d7984d8c9a22c.png",
+    "RHCSA_Labs/attachment/caed09e2fe84780a3e717f65b809f15a.PNG",
+    "RHCSA_LABS/Chapter11_Labs.md",
+    "RHCSA_Labs/Chapter8_Labs.md",
+    "RHCSA_Labs/Chapter11_Labs.md",
+    "Untitled.canvas",
+    "RHCSA_Labs/Chapter10_Labs.md",
+    "RHCSA_Labs/Chapter9_Labs.md",
+    "RHCSA_Labs/Chapter7_Labs.md",
+    "Untitled.base",
+    "RHCSA_Labs/attachment",
+    "RHCSA_Labs",
+    "Untitled 1.base",
+    "Untitled 2.base"
   ]
 }
