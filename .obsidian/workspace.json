@@ -39,12 +39,14 @@
             "id": "567c773d4041727f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "RHCSA_Labs/Chapter17_Labs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Chapter17_Labs"
             }
           }
         ],
@@ -121,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RHCSA_LABS/Chapter7_Labs.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "RHCSA_Labs/Chapter17_Labs.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter7_Labs"
+              "title": "Backlinks for Chapter17_Labs"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RHCSA_NOTES/storage_and_filesystems.md",
-                "followCursor": false,
+                "file": "RHCSA_Labs/Chapter17_Labs.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of storage_and_filesystems"
+              "title": "Outline of Chapter17_Labs"
             }
           },
           {
@@ -207,27 +209,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "567c773d4041727f",
+  "active": "993f0a3d025b3f10",
   "lastOpenFiles": [
-    "hostname_and_timesync.md",
+    "RHCSA_NOTES/secure_shell.md",
     "RHCSA_Labs/Chapter17_Labs.md",
-    "RHCSA_Labs/Chapter16_Labs.md",
+    "RHCSA_NOTES/storage_and_filesystems.md",
+    "RHCSA_NOTES/shell_scripting.md",
+    "RHCSA_NOTES/hostname_and_timesync.md",
+    "RHCSA_NOTES/README.md",
+    "RHCSA_NOTES/networking.md",
     "RHCSA_NOTES/network_file_system.md",
+    "RHCSA_Labs/attachment/Pasted image 20260121172325.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121172205.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121171957.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121171917.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121171833.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121171705.png",
+    "RHCSA_Labs/attachment/Pasted image 20260121170855.png",
+    "RHCSA_Labs/Chapter16_Labs.md",
     "RHCSA_Labs/attachment/Pasted image 20260119165154.png",
     "RHCSA_Labs/attachment/Pasted image 20260119164030.png",
     "RHCSA_Labs/attachment/Pasted image 20260119161624.png",
-    "RHCSA_Labs/attachment/Pasted image 20260119153456.png",
-    "RHCSA_Labs/attachment/Pasted image 20260119152452.png",
-    "RHCSA_Labs/attachment/Pasted image 20260116165712.png",
     "RHCSA_Labs/Chapter15_Labs.md",
-    "RHCSA_Labs/attachment/Pasted image 20260115173555.png",
-    "RHCSA_Labs/attachment/Pasted image 20260115173546.png",
-    "RHCSA_Labs/attachment/Pasted image 20260115150556.png",
-    "RHCSA_Labs/attachment/Pasted image 20260115150534.png",
     "RHCSA_Labs/Chapter14_Labs.md",
-    "RHCSA_NOTES/networking.md",
     "RHCSA_NOTES/troubleshooting.md",
-    "RHCSA_NOTES/storage_and_filesystems.md",
     "RHCSA_NOTES/system_tuning.md",
     "RHCSA_NOTES/user_and_group_management.md",
     "README.md",
@@ -240,15 +245,12 @@
     "RHCSA_Labs/Chapter6_Labs.md",
     "RHCSA_Labs/Chapter12_Labs.md",
     "RHCSA_Labs/Chapter11_Labs.md",
-    "RHCSA_NOTES/secure_shell.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
     "RHCSA_Labs/Chapter10_Labs.md",
     "RHCSA_Labs/Chapter8_Labs.md",
-    "2025-11-12.md",
-    "Lab_Writeups/Performing_Threat_Hunting.md",
     "RHCSA_NOTES",
     "RHCSA_Labs/attachment",
     "RHCSA_Labs"
