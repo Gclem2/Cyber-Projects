@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RHCSA_NOTES/README.md",
+                "file": "RHCSA_NOTES/secure_shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "secure_shell"
             }
           }
         ],
@@ -211,13 +211,15 @@
   },
   "active": "567c773d4041727f",
   "lastOpenFiles": [
+    "RHCSA_NOTES/user_and_group_management.md",
+    "RHCSA_NOTES/troubleshooting.md",
+    "RHCSA_NOTES/system_tuning.md",
+    "RHCSA_NOTES/storage_and_filesystems.md",
     "RHCSA_NOTES/secure_shell.md",
     "RHCSA_NOTES/shell_scripting.md",
-    "RHCSA_NOTES/user_and_group_management.md",
-    "RHCSA_Labs/Chapter17_Labs.md",
-    "RHCSA_NOTES/storage_and_filesystems.md",
-    "RHCSA_NOTES/hostname_and_timesync.md",
     "RHCSA_NOTES/README.md",
+    "RHCSA_Labs/Chapter17_Labs.md",
+    "RHCSA_NOTES/hostname_and_timesync.md",
     "RHCSA_NOTES/networking.md",
     "RHCSA_NOTES/network_file_system.md",
     "RHCSA_Labs/attachment/Pasted image 20260121172325.png",
@@ -233,8 +235,6 @@
     "RHCSA_Labs/attachment/Pasted image 20260119161624.png",
     "RHCSA_Labs/Chapter15_Labs.md",
     "RHCSA_Labs/Chapter14_Labs.md",
-    "RHCSA_NOTES/troubleshooting.md",
-    "RHCSA_NOTES/system_tuning.md",
     "README.md",
     "RHCSA_NOTES/important_commands.md",
     "RHCSA_NOTES/firewall_and_selinux.md",
