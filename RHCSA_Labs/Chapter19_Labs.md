@@ -53,3 +53,46 @@ Expected output: `8000-8005/udp`
 # Check trusted zone configuration file
 sudo cat /etc/firewalld/zones/trusted.xml
 ```
+
+---
+# Chapter 20: Security Enhanced Linux
+
+## Overview
+SELinux is a kernel-level mandatory access control (MAC) mechanism that provides security beyond traditional DAC (user/group/permissions)
+
+## Purpose
+- Control **who** can access **what** on the system
+- Limit damage from unauthorized user or program access
+- Enforce security policies beyond standard file permissions
+
+## Traditional Security vs SELinux
+**Traditional (DAC - Discretionary Access Control)**:
+- File/directory permissions (rwx)
+- User and group ownership
+- Shadow passwords and password aging
+
+**SELinux (MAC - Mandatory Access Control)**:
+- Additional layer on top of DAC
+- Context-based access control
+- Policy enforcement at kernel level
+
+## RHCSA Objectives Covered
+- **55**: Set enforcing and permissive modes
+- **56**: List and identify file and process contexts
+- **57**: Restore default file contexts
+- **58**: Manage SELinux port labels
+- **59**: Use Boolean settings to modify SELinux
+- **60**: Diagnose and address SELinux policy violations
+
+## Topics Covered
+1. SELinux terminology and concepts
+2. Contexts for users, processes, files, and ports
+3. Copy/move/archive files with SELinux context
+4. Domain transitioning
+5. SELinux Booleans
+6. Query and manage SELinux (tools)
+7. Modify contexts for files and ports
+8. Add SELinux rules to policy database
+9. View and analyze SELinux alerts
+
+---
